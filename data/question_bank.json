@@ -1,0 +1,378 @@
+{
+  "Python": [
+    {
+      "question": "What is the difference between a list and a tuple in Python?",
+      "category": "Data Types",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain mutable vs immutable data types in Python with examples.",
+      "category": "Data Types",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is a dictionary in Python and when would you use one over a list?",
+      "category": "Data Types",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How does Python's garbage collection work?",
+      "category": "Memory Management",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain the Global Interpreter Lock (GIL) and its impact on multithreading.",
+      "category": "GIL",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What are Python decorators and how would you write a simple one?",
+      "category": "Decorators",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain the difference between a generator and a normal function.",
+      "category": "Generators",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the difference between an iterator and an iterable?",
+      "category": "Iterators",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain Python's exception handling using try/except/else/finally.",
+      "category": "Exception Handling",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do you read and write files safely in Python?",
+      "category": "File Handling",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the difference between a module and a package in Python?",
+      "category": "Modules",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Why and how would you use a virtual environment?",
+      "category": "Virtual Environments",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain multithreading vs multiprocessing in Python, and when to use each.",
+      "category": "Concurrency",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is async/await in Python and what problem does it solve?",
+      "category": "Async Programming",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain the four pillars of OOP with Python examples.",
+      "category": "OOP",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is method overriding and how does inheritance work in Python?",
+      "category": "Inheritance",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain polymorphism in Python with a practical example.",
+      "category": "Polymorphism",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is encapsulation and how do name-mangled attributes work in Python?",
+      "category": "Encapsulation",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a lambda function and when should you avoid using one?",
+      "category": "Lambda",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Walk me through how Python's memory management and reference counting work.",
+      "category": "Memory Management",
+      "difficulty": "Hard"
+    }
+  ],
+  "SQL": [
+    {
+      "question": "Explain the difference between INNER JOIN and LEFT JOIN.",
+      "category": "JOIN",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is the difference between WHERE and HAVING clauses?",
+      "category": "WHERE/HAVING",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is a subquery, and when would you use one instead of a JOIN?",
+      "category": "Subqueries",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain what a Common Table Expression (CTE) is and why it's useful.",
+      "category": "CTE",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What are window functions? Give an example use case.",
+      "category": "Window Functions",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Why are indexes important, and what is the trade-off of adding too many?",
+      "category": "Indexes",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain database transactions and the ACID properties.",
+      "category": "Transactions",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is normalization? Explain 1NF, 2NF, and 3NF briefly.",
+      "category": "Normalization",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How does GROUP BY work, and how is it different from ORDER BY?",
+      "category": "GROUP BY",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Write a query (in words) to find the second-highest salary in a table.",
+      "category": "SELECT",
+      "difficulty": "Medium"
+    }
+  ],
+  "Machine Learning": [
+    {
+      "question": "What is the difference between supervised and unsupervised learning?",
+      "category": "Fundamentals",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain overfitting and underfitting, and how to address each.",
+      "category": "Overfitting",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is cross-validation and why is it important?",
+      "category": "Cross-validation",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain the bias-variance tradeoff.",
+      "category": "Model Evaluation",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How does a Random Forest model work?",
+      "category": "Random Forest",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is gradient boosting, and how does XGBoost improve on it?",
+      "category": "XGBoost",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Explain precision, recall, and F1-score, and when each matters most.",
+      "category": "Model Evaluation",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is feature engineering, and can you give two examples?",
+      "category": "Feature Engineering",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain how a basic feed-forward neural network works.",
+      "category": "Neural Networks",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is k-means clustering and how do you choose k?",
+      "category": "Clustering",
+      "difficulty": "Medium"
+    }
+  ],
+  "Data Science": [
+    {
+      "question": "What is the difference between NumPy arrays and Python lists?",
+      "category": "NumPy",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain how you would handle missing data in a Pandas DataFrame.",
+      "category": "Data Cleaning",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Walk me through your process for exploratory data analysis (EDA).",
+      "category": "EDA",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain the difference between mean, median, and mode, and when each is misleading.",
+      "category": "Statistics",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What is a p-value, and how do you interpret it?",
+      "category": "Statistics",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "How would you detect and handle outliers in a dataset?",
+      "category": "Data Cleaning",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What visualization would you use to show a correlation between two variables, and why?",
+      "category": "Visualization",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain feature scaling \u2014 when and why is it necessary?",
+      "category": "Feature Engineering",
+      "difficulty": "Medium"
+    }
+  ],
+  "AI": [
+    {
+      "question": "What is the difference between AI, Machine Learning, and Deep Learning?",
+      "category": "Fundamentals",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain what an embedding is in the context of NLP.",
+      "category": "NLP",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is a transformer architecture, at a high level?",
+      "category": "Deep Learning",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "What is overfitting in the context of a deep neural network, and how do you prevent it?",
+      "category": "Deep Learning",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Explain the difference between fine-tuning and prompt engineering for LLMs.",
+      "category": "LLMs",
+      "difficulty": "Medium"
+    }
+  ],
+  "Web Development": [
+    {
+      "question": "Explain the difference between REST and GraphQL APIs.",
+      "category": "APIs",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What happens when you type a URL into a browser and press enter?",
+      "category": "Networking",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the difference between authentication and authorization?",
+      "category": "Security",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Explain how CORS works and why it exists.",
+      "category": "Security",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the difference between SQL and NoSQL databases?",
+      "category": "Databases",
+      "difficulty": "Easy"
+    }
+  ],
+  "Other": [
+    {
+      "question": "Tell me about a challenging technical problem you solved recently.",
+      "category": "General",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you approach debugging a production issue under time pressure?",
+      "category": "General",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "How do you keep your technical skills up to date?",
+      "category": "General",
+      "difficulty": "Easy"
+    }
+  ],
+  "HR": [
+    {
+      "question": "Tell me about yourself.",
+      "category": "Introduction",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What are your greatest strengths?",
+      "category": "Strengths",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What do you consider your biggest weakness, and how are you working on it?",
+      "category": "Weaknesses",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Why should we hire you for this role?",
+      "category": "Motivation",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Why do you want to work at this company?",
+      "category": "Motivation",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Where do you see yourself in five years?",
+      "category": "Career Goals",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Tell me about a time you had a conflict with a teammate and how you resolved it.",
+      "category": "Conflict",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Describe a situation where you demonstrated leadership.",
+      "category": "Leadership",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Tell me about a time you worked effectively as part of a team.",
+      "category": "Teamwork",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Describe a time you failed at something. What did you learn?",
+      "category": "Failure",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What has been the biggest challenge in your career so far?",
+      "category": "Challenges",
+      "difficulty": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+streamlit>=1.38
+SQLAlchemy>=2.0
+pandas>=2.2
+plotly>=5.22
+pydantic>=2.7
+python-dotenv>=1.0
+reportlab>=4.2
+openai>=1.40
+anthropic>=0.34
+pytest>=8.2
